@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="e3-manager-web:war exploded">
+    <output-path>$PROJECT_DIR$/e3-manager-web/target/e3-manager-web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="e3-manager-web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="e3-manager-interface-1.0.jar">
+            <element id="module-output" name="e3-manager-interface" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/e3-manager-web/target/e3-manager-web/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="e3-manager-web/web/Web" />
+    </root>
+  </artifact>
+</component>
