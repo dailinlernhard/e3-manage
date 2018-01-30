@@ -1,6 +1,7 @@
 package e3mall.mapper;
 
-import cn.e3mall.pojo.TbContent;
+
+import e3mall.pojo.TbContent;
 
 public interface TbContentMapper {
     /**

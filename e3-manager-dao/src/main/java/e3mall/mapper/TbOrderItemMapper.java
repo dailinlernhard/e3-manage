@@ -1,6 +1,7 @@
 package e3mall.mapper;
 
-import cn.e3mall.pojo.TbOrderItem;
+
+import e3mall.pojo.TbOrderItem;
 
 public interface TbOrderItemMapper {
     /**

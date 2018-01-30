@@ -1,6 +1,7 @@
 package e3mall.mapper;
 
-import cn.e3mall.pojo.TbContentCategory;
+
+import e3mall.pojo.TbContentCategory;
 
 public interface TbContentCategoryMapper {
     /**

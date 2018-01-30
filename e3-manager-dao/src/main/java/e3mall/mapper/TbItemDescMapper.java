@@ -1,6 +1,7 @@
 package e3mall.mapper;
 
-import cn.e3mall.pojo.TbItemDesc;
+
+import e3mall.pojo.TbItemDesc;
 
 public interface TbItemDescMapper {
     /**

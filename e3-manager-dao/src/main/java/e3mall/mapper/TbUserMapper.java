@@ -1,6 +1,7 @@
 package e3mall.mapper;
 
-import cn.e3mall.pojo.TbUser;
+
+import e3mall.pojo.TbUser;
 
 public interface TbUserMapper {
     /**

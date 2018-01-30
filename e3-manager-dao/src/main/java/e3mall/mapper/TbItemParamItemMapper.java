@@ -1,6 +1,7 @@
 package e3mall.mapper;
 
-import cn.e3mall.pojo.TbItemParamItem;
+
+import e3mall.pojo.TbItemParamItem;
 
 public interface TbItemParamItemMapper {
     /**
