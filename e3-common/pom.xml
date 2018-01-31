@@ -11,5 +11,6 @@
 
     <artifactId>e3-common</artifactId>
 
-
+    <dependencies>
+    </dependencies>
 </project>
